@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on JaneW</title>
+        <link>https://janew14.github.io/posts/</link>
+        <description>Recent content in Posts on JaneW</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Sat, 19 Mar 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://janew14.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Helle There</title>
+            <link>https://janew14.github.io/posts/2022/03/helle-there/</link>
+            <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://janew14.github.io/posts/2022/03/helle-there/</guid>
+            <description>Helloooooooo</description>
+            <content type="html"><![CDATA[<p>Helloooooooo</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
