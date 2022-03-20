@@ -1,0 +1,19 @@
+.header{
+    background: #fbfbfb;
+}
+
+.content h1{
+    color: #ccc;
+}
+
+.content p{
+    color: #999;
+}
+
+.content svg{
+    color: #999;
+}
+
+.logo .logo__cursor{
+    background: rgb(233, 126, 26);
+}
