@@ -17,3 +17,12 @@
 .logo .logo__cursor{
     background: rgb(233, 126, 26);
 }
+.footer{
+    padding:1rem 2rem;
+    background-color: rgba(117, 117, 117, 0.199);
+    /* opacity: .8; */
+}
+
+.footer .footer__content{
+    color: rgb(255, 255, 255);
+}
